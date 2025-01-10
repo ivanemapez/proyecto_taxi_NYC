@@ -49,7 +49,7 @@
 - Crea el dataset en el servicio de Big Querry de Google Cloud basado en el nombre del archivo original en caso de que no exista.
 
 ### Definicion de esquema y cargar datos
-- Se crean columnas y filas dependiendo de la estructura de los datos del dataset
+- Se crean columnas y filas dependiendo de la estructura de los datos del dataset, asi mismo la carga tambien se presenta de forma exponencial mediante la funcion calculate_file_hash y el algoritmo que se uso para verificar la integridad de los datos fue SHA256
 
 ### Eliminar archivos temporales
 
