@@ -1,7 +1,0 @@
-google-cloud-storage
-google-cloud-bigquery
-google-api-python-client
-pandas
-openpyxl
-numpy
-pyarrow
